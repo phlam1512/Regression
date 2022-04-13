@@ -9,4 +9,6 @@ This project is submitted as part of assessed coursework for a module at LSE: ST
 
 ## Files
 - `finalcode.R` contains all R code used in the regression analysis.
+- `project.tex` is the written report for the analysis.
+- `\figures` folder contains all figures for `project.tex`.
 - `countries of the world.csv` is the dataset analysed. Originally sourced from *Kaggle*: https://www.kaggle.com/datasets/fernandol/countries-of-the-world.
