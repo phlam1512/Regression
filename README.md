@@ -8,5 +8,5 @@ The aim is to analyse and present findings on a dataset with R. The focus is to 
 This project is submitted as part of assessed coursework for a module at LSE: ST300 Regression and Generalised Linear Models.
 
 ## Files
-`finalcode.R` contains all R code used in the regression analysis.
-`countries of the world.csv` is the dataset analysed. Originally sourced from *Kaggle*: https://www.kaggle.com/datasets/fernandol/countries-of-the-world.
+- `finalcode.R` contains all R code used in the regression analysis.
+- `countries of the world.csv` is the dataset analysed. Originally sourced from *Kaggle*: https://www.kaggle.com/datasets/fernandol/countries-of-the-world.
