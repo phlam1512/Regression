@@ -9,6 +9,7 @@ This project is submitted as part of assessed coursework.
 
 ## Files
 - `finalcode.R` contains all R code used in the regression analysis.
-- `writeup.tex` is the written report for the analysis.
+- `writeup.pdf` is the written report for the analysis.
+- `writeup.tex` contains the Latex code for `writeup.pdf`.
 - `\figures` folder contains all figures for `writeup.tex`.
 - `countries of the world.csv` is the dataset analysed. Originally sourced from *Kaggle*: https://www.kaggle.com/datasets/fernandol/countries-of-the-world.
